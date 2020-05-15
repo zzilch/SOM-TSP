@@ -1,6 +1,5 @@
 # SOM-TSP
 Using som to solve tsp and mtsp problems, implemented in Matlab.  
-**PLEASE CITE THIS PAGE WHEN YOU USE THE CODE FOR HOMEWORK**
 
 # Results
 TSP:
